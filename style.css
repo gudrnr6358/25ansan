@@ -26,5 +26,5 @@ body {
 }
 #grid {
     display: grid;
-    grid-template-columns: 240px 1fr;
+    grid-template-columns: 251px 1fr;
 }
